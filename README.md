@@ -2,5 +2,5 @@
 
 ## 🌐
 
-👉 [Click here to view the deployed app](https://your-deployed-link.com)
+👉 [Click here to view the deployed app](https://netflix-clone-beige-three-79.vercel.app/)
 
